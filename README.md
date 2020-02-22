@@ -2,3 +2,5 @@
 First Repository on GitHub
 Adding things to Branch Readme-Edits to see how this all works
 Coursera course about DS, do not know where we are heading.
+Additional updates for Practice.
+Working on a second trial
